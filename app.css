@@ -2,7 +2,7 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 200px;
     margin: 0 auto;
-    background-color: rgb(197, 230, 245);
+    background-color: orchid;
 
 }
 
@@ -16,6 +16,6 @@ h1{
 }
 
 .bigger{
-    font-size: 3rem;
+    font-size: 5rem;
 }
 
